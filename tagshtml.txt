@@ -1,0 +1,34 @@
+menor que &lt;
+maior que &gt;
+menor ou igual &le;
+maior ou igual &ge;
+
+libra &pound;
+yen &yen;
+euro &euro;
+
+copyright &copy;
+marca registrada &reg;
+trade mark TM &trade;
+
+&permil;
+somatorio &sum;
+infinito &infin;
+vezes &times;
+mais ou menos &plusmn;   &oplus;
+raiz quadrada &radic;
+diferente &ne;
+
+delta &delta;  &Delta;
+&lambda; &omega; &phi
+
+setas &larr; &rarr; &uarr; &darr; &harr;
+
+nipes &spades; &clubs; &hearts; &diams;
+
+pular linha <br/>
+
+italico: <i> </i>
+palavra riscada: <del></del>
+
+
